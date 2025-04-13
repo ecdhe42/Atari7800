@@ -1,0 +1,13 @@
+sprite_sheets:
+  - image: demo3_tileset.bmp
+    sprites:
+      - name: tiles
+        top: 0
+        left: 0
+        width: 32
+        holeydma: true
+      - name: tiles_gen
+        top: 0
+        left: 64
+        width: 32
+        holeydma: true

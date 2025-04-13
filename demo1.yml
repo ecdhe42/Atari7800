@@ -1,0 +1,14 @@
+palettes:
+  - name: player
+    colors:
+    - [31, 99, 115] # Yellow
+    - [246, 154, 108] # Red  f69a6c
+
+sprite_sheets:
+  - image: demo1_tileset.bmp
+    sprites:
+      - name: tiles
+        top: 0
+        left: 0
+        width: 256
+        holeydma: false
