@@ -9,7 +9,7 @@ The following are examples of Atari 7800 samples:
 
 These sample were build using the [cc7800](https://github.com/steux/cc7800) C SDK. However, instead of using the sprite capabilities available in this SDK, the samples are managing the 7800 Display List List (DLL) directly.
 
-To understand how the DLL works in detail, it is recommended to look at the [7800 Software Guide] (https://7800.8bitdev.org/index.php/7800_Software_Guide#Display) Display section.
+To understand how the DLL works in detail, it is recommended to look at the [7800 Software Guide](https://7800.8bitdev.org/index.php/7800_Software_Guide#Display) Display section.
 
 # DLL Parse
 
